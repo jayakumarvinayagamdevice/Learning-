@@ -13,4 +13,7 @@ If we change dependent object, then we also need to change the classes where thi
 Uf it small one then it is not that difficult to handle but if we have a big enterprise level application, then its really very difficult to
 handle make the changes.
 
+Loose Coupling:
+
+
 */
