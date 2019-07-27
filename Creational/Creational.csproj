@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CreationSingleton\" />
+    <Folder Include="CreationSingleton\Factory\" />
+    <Folder Include="CreationSingleton\Factory\SimpleFactory\" />
+    <Folder Include="CreationSingleton\Factory\FactoryMethod\" />
+  </ItemGroup>
+</Project>
