@@ -2,6 +2,7 @@
 using Creational.CreationSingleton;
 using Creational.CreationSingleton.Factory.FactoryMethod;
 using Creational.CreationSingleton.Factory.SimpleFactory;
+using Creational.DependencyInjection;
 
 namespace LearningDesignPatterns
 {
@@ -20,8 +21,11 @@ namespace LearningDesignPatterns
             _accessPoint.Start();
             Console.ReadKey(true);*/
 
+            /*
             FactoryMethodAccessPoint factoryMethodAccessPoint = new FactoryMethodAccessPoint();
-            factoryMethodAccessPoint.Start();
+            factoryMethodAccessPoint.Start(); */
+
+            Startup.Start();
         }
     }
 }

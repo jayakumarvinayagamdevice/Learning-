@@ -1,0 +1,9 @@
+D:\2019\jayakumarvinaagamdeviceGit\Creational\bin\Debug\netstandard2.0\Creational.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\Creational\bin\Debug\netstandard2.0\Creational.dll
+D:\2019\jayakumarvinaagamdeviceGit\Creational\bin\Debug\netstandard2.0\Creational.pdb
+D:\2019\jayakumarvinaagamdeviceGit\Creational\obj\Debug\netstandard2.0\Creational.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\Creational\obj\Debug\netstandard2.0\Creational.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\Creational\obj\Debug\netstandard2.0\Creational.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\Creational\obj\Debug\netstandard2.0\Creational.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\Creational\obj\Debug\netstandard2.0\Creational.dll
+D:\2019\jayakumarvinaagamdeviceGit\Creational\obj\Debug\netstandard2.0\Creational.pdb

@@ -1,0 +1,17 @@
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\DesignPatternTest.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\DesignPatternTest.runtimeconfig.json
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\DesignPatternTest.runtimeconfig.dev.json
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\DesignPatternTest.dll
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\DesignPatternTest.pdb
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\Creational.dll
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\bin\Debug\netcoreapp2.2\Creational.pdb
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.csproj.CopyComplete
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.dll
+D:\2019\jayakumarvinaagamdeviceGit\DesignPatternTest\obj\Debug\netcoreapp2.2\DesignPatternTest.pdb
