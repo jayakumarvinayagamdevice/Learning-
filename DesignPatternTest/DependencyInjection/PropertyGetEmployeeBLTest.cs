@@ -26,7 +26,7 @@ namespace DesignPatternTest.DependencyInjection
             _repository = new Mock<IConstructorGetEmployeeDL>(MockBehavior.Strict);
             _repository.Setup(r => r.GetAllEmployee()).Returns(_testableEmployee);
 
-            _propertyGetEmployee = new PropertyGetEmployeeBL(_repository.Object);
+            //_propertyGetEmployee = new PropertyGetEmployeeBL(_repository.Object);
         }
 
         [Test]

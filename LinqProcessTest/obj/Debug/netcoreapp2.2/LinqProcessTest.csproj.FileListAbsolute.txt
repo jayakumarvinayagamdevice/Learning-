@@ -1,0 +1,17 @@
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcessTest.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcessTest.runtimeconfig.json
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcessTest.runtimeconfig.dev.json
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcessTest.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcessTest.pdb
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcess.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\bin\Debug\netcoreapp2.2\LinqProcess.pdb
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.csproj.CopyComplete
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcessTest\obj\Debug\netcoreapp2.2\LinqProcessTest.pdb

@@ -1,0 +1,9 @@
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\bin\Debug\netstandard2.0\LinqProcess.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\bin\Debug\netstandard2.0\LinqProcess.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\bin\Debug\netstandard2.0\LinqProcess.pdb
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\obj\Debug\netstandard2.0\LinqProcess.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\obj\Debug\netstandard2.0\LinqProcess.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\obj\Debug\netstandard2.0\LinqProcess.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\obj\Debug\netstandard2.0\LinqProcess.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\obj\Debug\netstandard2.0\LinqProcess.dll
+D:\2019\jayakumarvinaagamdeviceGit\LinqProcess\obj\Debug\netstandard2.0\LinqProcess.pdb

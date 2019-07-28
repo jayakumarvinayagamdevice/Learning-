@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.11.0" />
+    <PackageReference Include="nunit" Version="3.11.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LinqProcess\LinqProcess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Aggregation\" />
+    <Folder Include="Concatenation\" />
+    <Folder Include="Conversion\" />
+    <Folder Include="Equality\" />
+    <Folder Include="Generation\" />
+    <Folder Include="Grouping\" />
+    <Folder Include="Join\" />
+    <Folder Include="Miscellaneous\" />
+    <Folder Include="Filtering\" />
+    <Folder Include="Projection\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Partitioning\" />
+    <Folder Include="Quantifier\" />
+  </ItemGroup>
+
+</Project>

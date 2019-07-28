@@ -1,0 +1,36 @@
+Linq: Language Integrated Query
+	It allows us to query the data from different data source.
+		InMemory - Linq to Object
+		ADO.Net Dataset - Linq to Dataset
+		XML - Linq to XML
+		SQl ServerDatabase Linq to SQL
+		Entity Framework - Linq to Entity
+		Others - Linq to others
+DLinq only for SQL server, ONE-ONE
+PLinq** only Linq to Object
+Linq to Entity - 1-1, 1-many. many-many
+
+Syntax
+	Query 
+	Methods
+	Mixed(Query, Method)
+
+Extension Methods
+
+Linq Operators
+	Projection Operators( Select, SelectMany)
+	Ordering Operators - OrderBy, OrderByDecending, ThenBy, thenBydecending, Reverse
+	Filtering Operators - Where, OffType
+	Set Operators - Union, Except, Distinct, Intersect
+	Quantifier Operators - All, Any, Contains
+	Grouping Operators
+	Partitioning Operators
+	Equality Operators
+	Element Operators
+	Conversion Operators
+	Concatenation Operators
+	Aggregation Operators - Max, Min, Sum, Average,Count, Aggregate
+	Generation Operators
+	Join Operators
+	Custom Sequence Operators
+	Miscellaneous Operators
