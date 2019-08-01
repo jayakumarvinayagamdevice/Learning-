@@ -1,0 +1,14 @@
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\FunTesting.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\FunTesting.runtimeconfig.json
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\FunTesting.runtimeconfig.dev.json
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\FunTesting.dll
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\bin\Debug\netcoreapp2.2\FunTesting.pdb
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\obj\Debug\netcoreapp2.2\FunTesting.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\obj\Debug\netcoreapp2.2\FunTesting.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\obj\Debug\netcoreapp2.2\FunTesting.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\obj\Debug\netcoreapp2.2\FunTesting.dll
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\obj\Debug\netcoreapp2.2\FunTesting.pdb
+D:\2019\jayakumarvinaagamdeviceGit\FunTesting\obj\Debug\netcoreapp2.2\FunTesting.csprojAssemblyReference.cache

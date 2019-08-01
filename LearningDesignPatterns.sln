@@ -15,9 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LearnLinq", "LearnLinq", "{
 		Linq.txt = Linq.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProcess", "LinqProcess\LinqProcess.csproj", "{5ECBF443-2259-4F61-AB28-D2306023D24F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProcess", "LinqProcess\LinqProcess.csproj", "{5ECBF443-2259-4F61-AB28-D2306023D24F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProcessTest", "LinqProcessTest\LinqProcessTest.csproj", "{740DD51F-2DD4-4965-B9F9-FE59C1868FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProcessTest", "LinqProcessTest\LinqProcessTest.csproj", "{740DD51F-2DD4-4965-B9F9-FE59C1868FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunTest", "FunTest", "{4F151EB6-104C-4CA8-B6E3-434CA61CEE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunTesting", "FunTesting\FunTesting.csproj", "{DE647714-1DC2-4402-8DED-12EEDFB7571D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,10 @@ Global
 		{740DD51F-2DD4-4965-B9F9-FE59C1868FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{740DD51F-2DD4-4965-B9F9-FE59C1868FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{740DD51F-2DD4-4965-B9F9-FE59C1868FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE647714-1DC2-4402-8DED-12EEDFB7571D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE647714-1DC2-4402-8DED-12EEDFB7571D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE647714-1DC2-4402-8DED-12EEDFB7571D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE647714-1DC2-4402-8DED-12EEDFB7571D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +61,8 @@ Global
 		{F9788141-B90A-4CDE-85FB-D46CCE13F281} = {F9F6D044-28D0-4458-BB41-79B329A6ED63}
 		{5ECBF443-2259-4F61-AB28-D2306023D24F} = {F9788141-B90A-4CDE-85FB-D46CCE13F281}
 		{740DD51F-2DD4-4965-B9F9-FE59C1868FEF} = {F9788141-B90A-4CDE-85FB-D46CCE13F281}
+		{4F151EB6-104C-4CA8-B6E3-434CA61CEE88} = {F9F6D044-28D0-4458-BB41-79B329A6ED63}
+		{DE647714-1DC2-4402-8DED-12EEDFB7571D} = {4F151EB6-104C-4CA8-B6E3-434CA61CEE88}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B6FA356-0A8C-4AD8-93D1-D852FDDD2646}
