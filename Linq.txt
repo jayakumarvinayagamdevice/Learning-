@@ -34,3 +34,45 @@ Linq Operators
 	Join Operators
 	Custom Sequence Operators
 	Miscellaneous Operators
+
+
+
+
+
+	https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview
+
+Sorting Data (C#)
+
+Set Operations (C#)
+
+Filtering Data (C#)
+
+Quantifier Operations (C#)
+
+Projection Operations (C#)
+
+Partitioning Data (C#)
+
+Join Operations (C#)
+
+Grouping Data (C#)
+
+Generation Operations (C#)
+
+Equality Operations (C#)
+
+Element Operations (C#) [ ElementAt, ElementAtOrDefault, First, FirstOrDefault, Last, LastOrDefault, Single, SingleOrDefault]
+
+Converting Data Types (C#)
+
+Concatenation Operations (C#)
+
+Aggregation Operations (C#)
+
+
+https://www.codeguru.com/csharp/csharp/cs_linq/article.php/c18261/10-Ways-LINQ-Can-Improve-Your-C-Programming.htm
+
+https://www.tutorialsteacher.com/linq/linq-element-operator-single-singleordefault
+
+https://www.donnfelker.com/linq-single-vs-first/
+http://www.geeksblood.com/linq-single-vs-singleordefault-vs-first-vs-firstordefault/
