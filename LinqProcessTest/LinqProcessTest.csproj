@@ -30,7 +30,6 @@
     <Folder Include="Projection\" />
     <Folder Include="Repository\" />
     <Folder Include="Partitioning\" />
-    <Folder Include="Quantifier\" />
   </ItemGroup>
 
 </Project>
