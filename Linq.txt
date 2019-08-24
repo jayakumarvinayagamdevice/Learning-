@@ -41,7 +41,7 @@ Linq Operators
 
 	https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview
 
-Sorting Data (C#)
+Sorting Data (C#) - OrderBy, OrderByDescending, ThenBy, ThenByDescending, Reverse
 
 Set Operations (C#)
 
