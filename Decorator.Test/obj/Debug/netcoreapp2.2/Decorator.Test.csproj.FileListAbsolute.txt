@@ -1,0 +1,14 @@
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\Decorator.Test.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\Decorator.Test.runtimeconfig.json
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\Decorator.Test.runtimeconfig.dev.json
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\Decorator.Test.dll
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\bin\Debug\netcoreapp2.2\Decorator.Test.pdb
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\obj\Debug\netcoreapp2.2\Decorator.Test.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\obj\Debug\netcoreapp2.2\Decorator.Test.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\obj\Debug\netcoreapp2.2\Decorator.Test.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\obj\Debug\netcoreapp2.2\Decorator.Test.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\obj\Debug\netcoreapp2.2\Decorator.Test.dll
+D:\2019\jayakumarvinaagamdeviceGit\Decorator.Test\obj\Debug\netcoreapp2.2\Decorator.Test.pdb

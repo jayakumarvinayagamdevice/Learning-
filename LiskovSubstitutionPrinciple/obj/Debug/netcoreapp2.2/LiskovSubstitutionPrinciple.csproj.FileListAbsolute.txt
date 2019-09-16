@@ -1,0 +1,9 @@
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.dll
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.pdb
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.dll
+D:\2019\jayakumarvinaagamdeviceGit\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.2\LiskovSubstitutionPrinciple.pdb

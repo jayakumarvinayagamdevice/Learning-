@@ -1,0 +1,11 @@
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\bin\Debug\netcoreapp2.2\BasicStartup.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\bin\Debug\netcoreapp2.2\BasicStartup.runtimeconfig.json
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\bin\Debug\netcoreapp2.2\BasicStartup.runtimeconfig.dev.json
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\bin\Debug\netcoreapp2.2\BasicStartup.dll
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\bin\Debug\netcoreapp2.2\BasicStartup.pdb
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\obj\Debug\netcoreapp2.2\BasicStartup.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\obj\Debug\netcoreapp2.2\BasicStartup.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\obj\Debug\netcoreapp2.2\BasicStartup.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\obj\Debug\netcoreapp2.2\BasicStartup.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\obj\Debug\netcoreapp2.2\BasicStartup.dll
+D:\2019\jayakumarvinaagamdeviceGit\BasicStartup\obj\Debug\netcoreapp2.2\BasicStartup.pdb

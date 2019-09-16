@@ -1,0 +1,14 @@
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\DecoratorStart.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\DecoratorStart.runtimeconfig.json
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\DecoratorStart.runtimeconfig.dev.json
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\DecoratorStart.dll
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\DecoratorStart.pdb
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\Decorator.dll
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\bin\Debug\netcoreapp2.2\Decorator.pdb
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.csproj.CopyComplete
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.dll
+D:\2019\jayakumarvinaagamdeviceGit\DecoratorStart\obj\Debug\netcoreapp2.2\DecoratorStart.pdb

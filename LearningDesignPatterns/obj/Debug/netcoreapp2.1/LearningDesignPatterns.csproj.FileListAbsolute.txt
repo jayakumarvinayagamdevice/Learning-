@@ -12,3 +12,5 @@ D:\2019\jayakumarvinaagamdeviceGit\LearningDesignPatterns\obj\Debug\netcoreapp2.
 D:\2019\jayakumarvinaagamdeviceGit\LearningDesignPatterns\obj\Debug\netcoreapp2.1\LearningDesignPatterns.csproj.CopyComplete
 D:\2019\jayakumarvinaagamdeviceGit\LearningDesignPatterns\obj\Debug\netcoreapp2.1\LearningDesignPatterns.dll
 D:\2019\jayakumarvinaagamdeviceGit\LearningDesignPatterns\obj\Debug\netcoreapp2.1\LearningDesignPatterns.pdb
+D:\2019\jayakumarvinaagamdeviceGit\LearningDesignPatterns\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.dll
+D:\2019\jayakumarvinaagamdeviceGit\LearningDesignPatterns\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.pdb

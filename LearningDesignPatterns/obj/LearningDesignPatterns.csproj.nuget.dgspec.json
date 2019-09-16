@@ -92,8 +92,65 @@
             "projectReferences": {
               "D:\\2019\\jayakumarvinaagamdeviceGit\\Creational\\Creational.csproj": {
                 "projectPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\Creational\\Creational.csproj"
+              },
+              "D:\\2019\\jayakumarvinaagamdeviceGit\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
+                "projectPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\2019\\jayakumarvinaagamdeviceGit\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2019\\jayakumarvinaagamdeviceGit\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "projectName": "LiskovSubstitutionPrinciple",
+        "projectPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "packagesPath": "C:\\Users\\Jayakumar\\.nuget\\packages\\",
+        "outputPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\LiskovSubstitutionPrinciple\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jayakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
           }
         },
         "warningProperties": {

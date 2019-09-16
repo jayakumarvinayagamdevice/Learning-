@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "DecoratorStart/1.0.0": {
+        "dependencies": {
+          "Decorator": "1.0.0"
+        },
+        "runtime": {
+          "DecoratorStart.dll": {}
+        }
+      },
+      "Decorator/1.0.0": {
+        "runtime": {
+          "Decorator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecoratorStart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\2019\\jayakumarvinaagamdeviceGit\\DecoratorStart\\DecoratorStart.csproj": {}
+  },
+  "projects": {
+    "D:\\2019\\jayakumarvinaagamdeviceGit\\DecoratorStart\\DecoratorStart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2019\\jayakumarvinaagamdeviceGit\\DecoratorStart\\DecoratorStart.csproj",
+        "projectName": "DecoratorStart",
+        "projectPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\DecoratorStart\\DecoratorStart.csproj",
+        "packagesPath": "C:\\Users\\Jayakumar\\.nuget\\packages\\",
+        "outputPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\DecoratorStart\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jayakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\2019\\jayakumarvinaagamdeviceGit\\Decorator\\Decorator.csproj": {
+                "projectPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\Decorator\\Decorator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\2019\\jayakumarvinaagamdeviceGit\\Decorator\\Decorator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2019\\jayakumarvinaagamdeviceGit\\Decorator\\Decorator.csproj",
+        "projectName": "Decorator",
+        "projectPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\Decorator\\Decorator.csproj",
+        "packagesPath": "C:\\Users\\Jayakumar\\.nuget\\packages\\",
+        "outputPath": "D:\\2019\\jayakumarvinaagamdeviceGit\\Decorator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jayakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

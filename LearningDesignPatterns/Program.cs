@@ -4,6 +4,7 @@ using Creational.CreationSingleton;
 using Creational.CreationSingleton.Factory.FactoryMethod;
 using Creational.CreationSingleton.Factory.SimpleFactory;
 using Creational.DependencyInjection;
+using LiskovSubstitutionPrinciple;
 
 namespace LearningDesignPatterns
 {
@@ -22,10 +23,10 @@ namespace LearningDesignPatterns
                
             Console.WriteLine(string.Join(" ", expected));*/
 
-            string val1 = "F6EL9S fgasd ";
-            var valArr = StringToArray(val1);
+            //string val1 = "F6EL9S fgasd ";
+            //var valArr = StringToArray(val1);
 
-            Console.WriteLine("Singleton");
+            //Console.WriteLine("Singleton");
 
             /*Console.WriteLine("Singleton");
             var singletonObj = Singleton.GetInstance;
@@ -40,7 +41,9 @@ namespace LearningDesignPatterns
             /*
             FactoryMethodAccessPoint factoryMethodAccessPoint = new FactoryMethodAccessPoint();
             factoryMethodAccessPoint.Start(); */
-
+            LSPStartUp lSPStartUp = new LSPStartUp();
+            //lSPStartUp.Start();
+            lSPStartUp.StartAdvanced();
             //Startup.Start();
         }
 

@@ -1,0 +1,9 @@
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\bin\Debug\netstandard2.0\Decorator.deps.json
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\bin\Debug\netstandard2.0\Decorator.dll
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\bin\Debug\netstandard2.0\Decorator.pdb
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\obj\Debug\netstandard2.0\Decorator.csprojAssemblyReference.cache
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\obj\Debug\netstandard2.0\Decorator.csproj.CoreCompileInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\obj\Debug\netstandard2.0\Decorator.AssemblyInfoInputs.cache
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\obj\Debug\netstandard2.0\Decorator.AssemblyInfo.cs
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\obj\Debug\netstandard2.0\Decorator.dll
+D:\2019\jayakumarvinaagamdeviceGit\Decorator\obj\Debug\netstandard2.0\Decorator.pdb
